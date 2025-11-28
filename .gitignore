@@ -1,0 +1,20 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Notebooks & IDEs
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# Project directories
+data/
+uv.lock
+.env
+# Local environment files
+.python-version
+.env.*
+
