@@ -33,3 +33,7 @@ class LLMModel:
             return GoogleModel(self.model_name)
         else:
             raise ValueError("Invalid model provider")
+    
+    def generate(self, prompt: str, **kwargs: Any) -> str:
+        model = self.get_model()
+        return model.generate(prompt, **kwargs)

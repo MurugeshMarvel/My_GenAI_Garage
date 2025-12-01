@@ -13,6 +13,7 @@ __pycache__/
 # Project directories
 data/
 uv.lock
+notes/
 .env
 # Local environment files
 .python-version
