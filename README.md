@@ -92,6 +92,16 @@ uv run python main.py
 
 The `garage_helper/llm_model.py` module exposes provider-agnostic wrappers if you want to script custom demos.
 
+### Using Google Colab
+### Notebook Index
+
+| Topic              | Notebook                                                                                      | Colab |
+|--------------------|-----------------------------------------------------------------------------------------------|-------|
+| 00-Foundations     | [Intro to Tokenization](https://github.com/murugesan-vadivel/My_GenAI_Garage/blob/main/00-Foundations/01-Intro_Tokenization.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/murugesan-vadivel/My_GenAI_Garage/blob/main/00-Foundations/01-Intro_Tokenization.ipynb) |
+| 01-Prompt_Engineering | [Prompt Patterns 101](https://github.com/murugesan-vadivel/My_GenAI_Garage/blob/main/01-Prompt_Engineering/01-Prompt_Patterns_101.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/murugesan-vadivel/My_GenAI_Garage/blob/main/01-Prompt_Engineering/01-Prompt_Patterns_101.ipynb) |
+| 02-RAG_Systems     | [Simple PDF Chat RAG](https://github.com/murugesan-vadivel/My_GenAI_Garage/blob/main/02-RAG_Systems/01-Simple_RAG/chat_with_pdf.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/murugesan-vadivel/My_GenAI_Garage/blob/main/02-RAG_Systems/01-Simple_RAG/chat_with_pdf.ipynb) |
+
+
 ---
 
 ## 📦 Data & Environment
